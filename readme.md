@@ -4,6 +4,8 @@
 
 LICENSE: [MIT](./license.md)
 
+![git-logo](./1280px-Git-logo.svg.png)
+
 ---
 
 Содержание:
