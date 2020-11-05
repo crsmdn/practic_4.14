@@ -15,14 +15,13 @@
 7. [Git config](./config.md)
 8. [Git fetch](./fetch.md)
 9. [Git init](./init.md)
-10. [Git intro](./intro.md)
-11. [Git log](./log.md)
-12. [Git merge](./merge.md)
-13. [Git pull](./pull.md)
-14. [Git push](./push.md)
-15. [Git remote](./remote.md)
-16. [Git status](./status.md)
-
+10. [Git log](./log.md)
+11. [Git merge](./merge.md)
+12. [Git pull](./pull.md)
+13. [Git push](./push.md)
+14. [Git remote](./remote.md)
+15. [Git status](./status.md)
+16. [Заключение](./outro.md)
 
 ---
 
