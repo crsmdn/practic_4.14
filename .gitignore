@@ -20,9 +20,6 @@
 # Remainings from resolving conflicts in Source Control
 *.orig
 
-# Visual Studio temp something
-.vs/
-
 # Other Extensions
 *.vspscc
 
